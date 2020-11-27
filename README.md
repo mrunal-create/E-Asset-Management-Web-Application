@@ -1,7 +1,12 @@
 # E-ASSET_MANAGEMENT
 
 ## RUNTIME TERROR
-
+This is a E ASSET management web portal designed.The video is available in repository which explains all its functions.
+Features-It helps users borrow or return assets of various categories namely mobile,laptop,books,etc.
+It charges fine for late return
+Admin and user accounts exist. Asset history is visible to user to check which assets have been borrowed and track the return date.
+Session handling in javascript.
+Layered Architecture with loose coupling.
 **Instructions to configure and execute the project in STS (Spring Tool Suite v4.0+)**:-
 
 1. Go to File menu.
